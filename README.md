@@ -1,6 +1,6 @@
 # Task App — Classroom Edition
 
-A Next.js task manager for teaching **React** and **frontend patterns**. No backend required — tasks persist in the browser via `localStorage`.
+He project hi kan fork phawt ang, chumi zawhah kan clone anga, chu chu supabase hmangin kan connect dawn a ni.
 
 ## Tech stack
 
